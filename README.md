@@ -1,7 +1,3 @@
-Here’s a **clean, professional, ready-to-use README.md** you can paste directly into your GitHub repo.
-It matches your project exactly and sounds strong for submission/judging.
-
----
 
 # 🗑️ Waste Classification System
 
